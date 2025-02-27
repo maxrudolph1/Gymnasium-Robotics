@@ -58,6 +58,15 @@
             <default class="robot0:grey">
                 <geom rgba="0.356 0.361 0.376 1.0"></geom>
             </default>
+            <default class="robot0:green">
+                <geom rgba="0.086 0.506 0.076 1.0"></geom>
+            </default>
+            <default class="robot0:orange">
+                <geom rgba="0.986 0.506 0.076 1.0"></geom>
+            </default>
+            <default class="robot0:red">
+                <geom rgba="0.986 0.006 0.076 1.0"></geom>
+            </default>
             <default class="robot0:blue">
                 <geom rgba="0.086 0.506 0.767 1.0"></geom>
             </default>
